@@ -1,3 +1,5 @@
+![image](https://raw.githubusercontent.com/rememberlenny/teachgit/master/screenshot.png)
+
 teachgit
 ========
 
